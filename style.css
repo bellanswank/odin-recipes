@@ -1,0 +1,29 @@
+body{
+    background-color: azure;
+}
+
+.h1{
+    background-color: azure;
+    font-family: Geneva, Tahoma, sans-serif;
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 200px;
+}
+
+.list1, li{
+    list-style-type: none;
+    background-color: azure;
+    font-family: Geneva, Tahoma, sans-serif;
+
+}
+
+.list1{
+    font-size: 60px;
+    text-align: right;
+}
+
+li{
+    font-size: larger;
+    text-align: end;
+}
+
